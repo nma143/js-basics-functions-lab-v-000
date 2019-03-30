@@ -7,3 +7,8 @@ function distanceFromHqInFeet(destination)
 {
   return distanceFromHqInBlocks(destination) * 264;
 }
+function distanceTravelledInFeet(origin, destination)
+{
+  let blocks = Math.abs(destination - origin);
+  
+}
