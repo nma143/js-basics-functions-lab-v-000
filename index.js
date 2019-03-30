@@ -24,5 +24,8 @@ function calculatesFarePrice(start, destination)
   {
     return feet*0.2;
   }
+  else {
+    
+  }
 
 }
