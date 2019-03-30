@@ -22,7 +22,7 @@ function calculatesFarePrice(start, destination)
   }
   else if (feet <2000)
   {
-    return feet*0.2;
+    return feet*0.02;
   }
   else {
 
