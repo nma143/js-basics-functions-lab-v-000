@@ -10,5 +10,5 @@ function distanceFromHqInFeet(destination)
 function distanceTravelledInFeet(origin, destination)
 {
   let blocks = Math.abs(destination - origin);
-  
+
 }
